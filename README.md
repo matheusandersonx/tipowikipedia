@@ -1,4 +1,4 @@
-# Projeto HTML: Receita de Miojo 🍜
+# Projeto HTML: Página 'tipo' Wikipédia 💻
 
 Este repositório contém um exercício prático de HTML que explora o HTML semântico, diversas tags e conceitos da linguagem, utilizando como insipiração a pagina da Wikipédia.
 O tema livre escolhido foi *Dark Souls*.
